@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+[alt*="hp"]{
+	border-style: solid;
+	border-color: blue;
+}
+[target="_blank"]{
+	background-color: yellow;
+	
+}

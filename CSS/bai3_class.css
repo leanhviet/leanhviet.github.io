@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.text-group{
+	font-style: italic;
+	color:  blue;
+}
+
+#intro{
+	font-style: bold;
+	color: red;
+}

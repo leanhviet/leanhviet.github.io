@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+p::first-line{
+	color: red;
+	font-variant: small-caps;
+}
+
+p::first-letter{
+	font-size: 30px;
+	font-variant: small-caps;
+}
+p::selection{
+	background-color: blue;
+}
+p:nth-child(odd) {
+    background: lightgray;
+}
+
+p:nth-child(even) {
+    background: sandybrown;
+}
+a:link{
+	color: blue;
+}
+a:visited{
+	color: yellow;
+}
+a:hover{
+	background-color: deepskyblue;
+}
